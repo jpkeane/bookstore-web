@@ -50,7 +50,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.host = 'http://cel-tut-bookstore-api.herokuapp.com';
+    ENV.host = 'https://cel-tut-bookstore-api.herokuapp.com';
   }
 
   return ENV;

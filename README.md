@@ -7,5 +7,5 @@
 - ember-bootstrap
 
 ##Deployment
-Deployment URL is: https://cel-tut-bookstore-web.herokuapp.com
-Buildpack is: https://github.com/tonycoco/heroku-buildpack-ember-cli.git
+- Deployment URL is: https://cel-tut-bookstore-web.herokuapp.com
+- Buildpack is: https://github.com/tonycoco/heroku-buildpack-ember-cli.git
